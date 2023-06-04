@@ -585,8 +585,8 @@ begin
 	end
 	else 
 	begin
-        mag <= x12; //K linear factor ignored here
-        phase <= z12;
+        mag <= x13; //K linear factor ignored here
+        phase <= z13;
 	end
 end 
 
