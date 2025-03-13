@@ -11,3 +11,6 @@ to calculate the x and y coordinates of a vector after rotating an angle
 
 cic: 
 a cic decimation filter and a cic interpolation filter
+
+SPI_simulation:
+to simulation SPI protocol with a controller and a device
