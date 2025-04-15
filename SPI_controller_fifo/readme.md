@@ -1,0 +1,1 @@
+This repository contains verilog code for SPI controller with FIFO for buffering data.
