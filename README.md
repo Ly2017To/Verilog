@@ -12,3 +12,6 @@ to calculate the x and y coordinates of a vector after rotating an angle
 cic: 
 a cic decimation filter and a cic interpolation filter
 
+spi_controller_fifo:
+a SPI controller with fifo for buffering data
+
